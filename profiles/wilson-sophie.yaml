@@ -1,0 +1,11 @@
+name:
+  first: Sophie 
+  last: Wilson
+pronouns:
+ - she/her
+born:
+  when: 1957:
+  where: Leeds, Yorkshire, England
+bio: Inventor of the ARM architecture.
+see:
+  Wikipedia: https://en.wikipedia.org/wiki/Sophie_Wilson

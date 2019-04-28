@@ -1,0 +1,11 @@
+name:
+  first: Anne
+  last: Ogborn
+pronouns: she/her
+born:
+  when: 1959
+  where: Salina, Kansas, U.S.
+bio: Worked at a number of well-known software companies, including Ashton-Tate, EA, and Apple. Worked on Apple's localization systems for Mac OS 8. Won awards for writing WingZ, the first spreadsheet to let the user draw on it. Active in the SWI-Prolog project and various virtual world projects. Also famous for her trans activism: among other things, she started the first organized resistance against MWMF's transphobic policies.
+see:
+  - Wikipedia: https://en.wikipedia.org/wiki/Anne_Ogborn
+  - GitHub: https://github.com/Anniepoo
